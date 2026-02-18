@@ -42,7 +42,9 @@ This API returns JSON data, which is parsed and displayed in the application.
 
 6. Application Screenshot
 
-![Application Screenshot](assets/screenshot.png)
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/f7755a73-d5a5-4d11-82f3-89a10e553fd1" />
+<img width="510" height="946" alt="Screenshot 2026-02-18 230224" src="https://github.com/user-attachments/assets/3288f3b3-b33e-4c7a-9eec-673446b1b0cf" />
+
 
 7. How to Run the Project
 
@@ -55,7 +57,7 @@ This API returns JSON data, which is parsed and displayed in the application.
    flutter pub get
 
 4. Run the application using:
-
+   
    flutter run
 
 8. Conclusion
@@ -65,3 +67,4 @@ This project demonstrates the implementation of financial calculation logic alon
  9. Developed For
 
 This project was developed for college academic submission as part of the curriculum requirements.
+
