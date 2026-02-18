@@ -1,4 +1,4 @@
-src="https://github.com/user-attachments/assets/8ecdacad-37a4-4bd8-8cf6-796c2a6dc0d8" />Fixed Deposit Calculator – Flutter Project
+– Flutter Project
 
 1. Project Overview
 This project has been developed using Flutter as part of academic coursework requirements. It implements a Fixed Deposit (FD) Calculator and demonstrates integration of a public REST API.
@@ -36,8 +36,7 @@ This API returns JSON data, which is parsed and displayed in the application.
 
 
 6. Application Screenshot
-   <img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/d0f8fccb-7554-4acd-aef3-03ef084bb4d6" /><img width="1920" height="1080" alt="Screenshot (96)"
-
+   <img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/d0f8fccb-7554-4acd-aef3-03ef084bb4d6" />
    
 . How to Run the Project
 1. Clone the repository to your local machine.
