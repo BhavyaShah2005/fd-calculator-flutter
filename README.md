@@ -1,16 +1,67 @@
-# my_first_app
+Fixed Deposit Calculator – Flutter Project
 
-A new Flutter project.
+1. Project Overview
 
-## Getting Started
+This project has been developed using Flutter as part of academic coursework requirements. It implements a Fixed Deposit (FD) Calculator and demonstrates integration of a public REST API.
 
-This project is a starting point for a Flutter application.
+The application allows users to enter deposit amount, annual interest rate, and period (in months) to calculate the interest earned and total maturity amount. Additionally, it integrates a public REST API to fetch JSON data and display it dynamically using a ListView.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Objectives
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The primary objectives of this project are:
+
+* To implement user input handling using Flutter widgets
+* To perform financial calculations using Dart
+* To integrate a public REST API into a Flutter application
+* To parse JSON data received from the API
+* To display dynamic data using ListView
+
+3. Technologies Used
+
+* Flutter
+* Dart
+* HTTP package (for API integration)
+* JSONPlaceholder REST API
+
+4. Features
+
+* Fixed Deposit interest calculation
+* Display of total maturity amount
+* REST API integration using HTTP package
+* JSON data parsing
+* Dynamic data display using ListView
+
+5. API Used
+
+The following public REST API was used for demonstration purposes:
+
+[https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)
+
+This API returns JSON data, which is parsed and displayed in the application.
+
+6. Application Screenshot
+
+![Application Screenshot](assets/screenshot.png)
+
+7. How to Run the Project
+
+1. Clone the repository to your local machine.
+
+2. Navigate to the project directory.
+
+3. Run the following command to install dependencies:
+
+   flutter pub get
+
+4. Run the application using:
+
+   flutter run
+
+8. Conclusion
+
+This project demonstrates the implementation of financial calculation logic along with REST API integration in a Flutter application. It highlights the use of state management, JSON parsing, and dynamic UI updates using ListView.
+
+ 9. Developed For
+
+This project was developed for college academic submission as part of the curriculum requirements.
